@@ -31,7 +31,7 @@ Depenent dels casos on estem canviarem el entry actual a "call" o "resume" o far
 Al final retornem el cost optim com al recursiu.
 
 
-#Algorisme Dynamic Programming:
+# Algorisme Dynamic Programming:
 ---Recursiu---
 En el cas del algorisme dynamic tenim que es casi identic al algorisme de backtracking amb la peculiaritat de una memoria.
 Al nostre cas la memoria de un array bidimensional on guardem resultats.
